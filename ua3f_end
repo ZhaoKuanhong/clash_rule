@@ -1,3 +1,2 @@
 rules:
-  - NETWORK,udp,DIRECT
   - MATCH,ua3f
