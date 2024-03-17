@@ -9,3 +9,5 @@ payload:
   - DOMAIN-SUFFIX,sdk-push.mp.nexon.com
   - DOMAIN-SUFFIX,m-api.nexon.com
   - DOMAIN-SUFFIX,jp.livelog.nexon.com
+  - DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net
+  - DOMAIN-SUFFIX,api-ap.heaven-burns-red.wfs.games
